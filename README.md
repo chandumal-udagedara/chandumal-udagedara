@@ -2,7 +2,7 @@
 
 Cybersecurity graduate from **Edith Cowan University** (Bachelor of Computer Science, Cyber Security major), based in **Perth, WA**.
 
-I'm looking for **entry-level SOC Analyst, Security Analyst, or IT Support** roles. I like finding out what the logs are saying and explaining it in plain English.
+I'm looking for entry-level SOC Analyst, Security Analyst or IT Support roles, with hands-on experience in log analysis, malware analysis and security reporting.
 
 ### 🔍 What I work on
 - **Log analysis and monitoring:** building Splunk searches and dashboards to spot risky account activity
