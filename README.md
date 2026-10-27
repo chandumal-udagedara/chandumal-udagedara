@@ -23,4 +23,4 @@ I'm looking for **entry-level SOC Analyst, Security Analyst, or IT Support** rol
 **Systems:** Windows · Linux · Microsoft 365
 
 ### 📫 Contact
-[LinkedIn](https://www.linkedin.com/in/chandumal-udagedara) · chandumalgamindu@gmail.com
+[LinkedIn](https://www.linkedin.com/in/chandumal-udagedara) 
