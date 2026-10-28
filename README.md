@@ -16,6 +16,7 @@ I'm looking for entry-level SOC Analyst, Security Analyst or IT Support roles, w
 |---|---|
 | [splunk-account-monitoring](https://github.com/chandumal-udagedara/splunk-account-monitoring) | Splunk dashboard that checks user account policy compliance on the BOTSv3 dataset |
 | [DocScam-app](https://github.com/chandumal-udagedara/DocScam-app) | Offline Flutter app that teaches people to recognise scams, using versioned content packs and a rule-based red-flag checker |
+| [malware-analysis-windows-trojans](https://github.com/chandumal-udagedara/malware-analysis-windows-trojans) | Static and dynamic analysis of two Windows trojans, with IOCs, YARA rules and clean-up steps |
 
 ### 🛠️ Tools
 **Security:** Splunk · Wireshark · Kali Linux · Nmap · Burp Suite · Autopsy · VirusTotal
